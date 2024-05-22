@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javier!
+# Hi, I’m Javier!
 - 👀 I’m interested in all things tech!
 - 🌱 I’m currently learning a lot
 - 📫 How to reach me: JavierERios@proton.me
