@@ -1,8 +1,10 @@
-# Hi, I’m Javier!
-- 👀 I’m interested in all things tech!
-- 🌱 I’m currently learning a lot
-- 📫 How to reach me: JavierERios@proton.me
-- 😄 Pronouns: He/Him
+# Hello, I’m Javier! :)
+🛠️ Programming languages: C, C#, C++, HTML/CSS, Java, JavaScript, Python, SQL, Swift, and Unix Shell
+💻 I’m interested in AI/ML and Software Engineering!
+💭 learning new things each day
+👾 Pronouns: He/Him
+📫 You can reach me at JavierERios@proton.me
+
 
 
 <!---
